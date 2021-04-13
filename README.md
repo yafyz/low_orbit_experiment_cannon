@@ -6,4 +6,6 @@ has synapse x implementation, if you got a smaller game or alot of alts and a cr
 
 no docs cause useless to people who are not devs anyway
 
+originally made to shutdown Lab Experiment
+
 also sorry frin/tiger, couldn't resist
