@@ -1,0 +1,13 @@
+{
+  "name": "low_orbit_experiment_cannon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "fyz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "ffi-napi": "^4.0.3",
+    "ws": "^7.4.4"
+  }
+}
